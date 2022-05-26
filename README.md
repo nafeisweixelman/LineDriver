@@ -1,7 +1,7 @@
 # LineDriver
 Autonomous line following robot using a Raspberry Pi and Python
 
-We used the following with this project
+We used the following with this project:
 -Four DC motors and wheels
 -Raspberry Pi 4
 -Raspberry Pi Camera
