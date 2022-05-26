@@ -2,10 +2,10 @@
 Autonomous line following robot using a Raspberry Pi and Python
 
 We used the following with this project
-- Four DC motors and wheels
-- Raspberry Pi 4
-- Raspberry Pi Camera
-- L298N Motor Controllers
+1) Four DC motors and wheels
+2) Raspberry Pi 4
+3) Raspberry Pi Camera
+4) L298N Motor Controllers
 
 1) In order to run this code, you need to install OpenCV and the required support software for it.
 2) You can follow this tutorial, I recommend installing the full package and not the pip version.
