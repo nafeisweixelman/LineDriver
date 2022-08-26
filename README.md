@@ -1,11 +1,9 @@
 # LineDriver
-Autonomous line following robot using a Raspberry Pi and Python
+Fully autonomous line following robot
 
-We used the following with this project:
-* Four DC motors and wheels
-* Raspberry Pi 4
-* Raspberry Pi Camera
-* L298N Motor Controllers
+This was coded usig a Raspberry Pi 4, which would use the Pi Camera to control four L298N wheel controllers.
+The camera would take the color feed from the camera, and follow the line of any color, but would stop if a red object was seen.
+This can be attributed similar to a street light, red means stop, and green means go.
 
 The following steps are needed for implimentation:
 1. In order to run this code, you need to install OpenCV and the required support software for it.
